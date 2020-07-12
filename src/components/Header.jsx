@@ -9,9 +9,9 @@ function Header() {
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
             <div className="navbar-nav">
-                <a className="nav-item nav-link active" href="./index.html">[portfolio]<span className="sr-only">(current)</span></a>
-                <a className="nav-item nav-link" href="./about.html">about</a>
-                <a className="nav-item nav-link" href="./contact.html">contact</a>
+                <a className="nav-item nav-link active" href="https://shiftymitch.github.io/portfolio/2/index.html">portfolio<span className="sr-only">(current)</span></a>
+                <a className="nav-item nav-link" href="https://shiftymitch.github.io/portfolio/2/about.html">about</a>
+                <a className="nav-item nav-link" href="https://shiftymitch.github.io/portfolio/2/contact.html">contact</a>
             </div>
         </div>
     </nav>
