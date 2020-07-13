@@ -1,53 +1,56 @@
-# Unit 19 React Homework: Employee Directory
+# Employee Directory
 
-## Overview
+![app screenshot](./public/img/LiveApp_ScreenShot.png)
 
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+---
 
-## User Story
+### Table of Contents
 
-* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+- [Description](#description)
+- [How to Use](#how-to-use)
+- [Installation](#installation)
+- [Technologies](#technologies)
+- [License](#license)
+- [Contributors](#contributors)
 
-## Business Context
+---
 
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+### Description
 
-## Acceptance Criteria
+Employee Directory is a React web application for searching & filtering a large database of employees.
 
-Given a table of random users, when the user loads the page, a table of employees should render. 
+---
 
-The user should be able to:
+### How to Use
 
-  * Sort the table by at least one category
+Simply open the application in your browser to start using the filterable employee database.
 
-  * Filter the users by at least one property.
+---
 
-## Commit Early and Often
+### Installation
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+Employee Directory is live [here](https://shiftymitch-employee-directory.herokuapp.com/)
 
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
+---
 
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
+### Technologies
 
-Follow these guidelines for committing:
+[React](https://reactjs.org/)\
+[Bootstrap](https://getbootstrap.com/)\
+[MDBootstrap](https://mdbootstrap.com/docs/react/tables/sort/#introduction)
 
-* Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
+---
 
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
+### License
 
-* Don't commit half done work, for the sake of your collaborators (and your future self!)
+MIT © [shiftymitch](https://github.com/shiftymitch)
 
-* Test your application before you commit to ensure functionality at every step in the development process
+---
 
-We would like you to have well over 200 commits by graduation, so commit early and often!
+### Contributors
 
+| Developer | GitHub |
+| ------ | ------ |
+| Mitch Henderson | [shiftymitch](https://github.com/shiftymitch) |
 
-## Submission on BCS
-
-You are required to submit the following:
-
-* the URL to the deployed application
-
-* the URL to the Github repository
-
+[Back to the Top](#project-name)
