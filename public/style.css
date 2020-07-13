@@ -148,3 +148,8 @@ th {
 .dataTables_paginate {
     color: #252525;
 }
+
+.modal-content {
+    background-color: #252525;
+    color: #f9f9f9;
+}

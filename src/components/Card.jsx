@@ -1,5 +1,5 @@
 import React from "react";
-import Data from "./Data"
+import Data from "./Data";
 
 function Card(props) {
     return <div className="card m-3 text-center" style={{width: "16rem"}} id={props.id}>

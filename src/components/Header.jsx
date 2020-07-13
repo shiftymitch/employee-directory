@@ -9,9 +9,9 @@ function Header() {
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
             <div className="navbar-nav">
-            <a class="nav-item nav-link" href="https://shiftymitch-portfolio.herokuapp.com/">portfolio</a>
-                <a class="nav-item nav-link" href="https://shiftymitch-portfolio.herokuapp.com/about">about</a>
-                <a class="nav-item nav-link" href="https://shiftymitch-portfolio.herokuapp.com/contact">contact</a>
+            <a className="nav-item nav-link" href="https://shiftymitch-portfolio.herokuapp.com/">portfolio</a>
+                <a className="nav-item nav-link" href="https://shiftymitch-portfolio.herokuapp.com/about">about</a>
+                <a className="nav-item nav-link" href="https://shiftymitch-portfolio.herokuapp.com/contact">contact</a>
             </div>
         </div>
     </nav>
